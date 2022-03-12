@@ -1,0 +1,14 @@
+
+body{background-color: gray;}
+.artical{
+  background: white;
+  border: 1px solid;
+  height: auto;
+  display:  block ;
+  padding: 10px; 
+  float: left;
+  margin-bottom: 2%;
+  text-align: center;
+  height: 260px;
+}
+

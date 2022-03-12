@@ -1,0 +1,772 @@
+[
+    [
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/hadde-fasiten---skjonte-ikke-at-folk-ble-fengslet/72006992",
+                    "title": "Hadde fasiten - skjønte ikke at folk ble fengslet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007624\u0026panoy=5.3763440860215\u0026panox=0\u0026panow=100\u0026panoh=52.688172043011\u0026heightw=0\u0026heighth=0\u0026heighty=0\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/ekspert-spar-ramaskrik/72008133",
+                    "title": "Ekspert spår ramaskrik",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008175\u0026panoy=24.015748031496\u0026panox=23.936170212766\u0026panow=74.468085106383\u0026panoh=38.582677165354\u0026heighty=0\u0026heightw=41.724137931034\u0026heighth=100\u0026heightx=24.48275862069"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/sexlivet-vart-er-over/72003461",
+                    "title": "- Sexlivet vårt er over",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003466\u0026panox=0\u0026panoy=11.929824561404\u0026panow=100\u0026panoh=34.385964912281\u0026heighty=1.1764705882353\u0026heightw=48.015873015873\u0026heighth=76.862745098039\u0026heightx=6.7460317460317"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/nyheter/slik-svekker-trump-natos-terrorkamp/72002845",
+                    "title": "Slik svekker Trump Nato",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007188\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026panoy=25.133689839572\u0026heightw=41.156462585034\u0026heighty=0\u0026heightx=45.578231292517\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kultur/ledere-i-ubalanse-avgjor-om-det-blir-krig/72005458",
+                    "title": "Nå er Norge i trøbbel",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006667\u0026panox=0\u0026panow=100\u0026panoh=59.756097560976\u0026panoy=26.219512195122\u0026heighty=0\u0026heightx=41.194029850746\u0026heightw=36.119402985075\u0026heighth=100"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kjendis/stjernas-voksfigur-latterliggjores/72005238",
+                    "title": "Stjernas voksfigur latterliggjøres",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005330\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026panoy=20.855614973262\u0026heighty=0\u0026heightx=26.190476190476\u0026heightw=41.156462585034\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/kjendis/nrk-journalist-christine-praesttun-er-dod/72007942",
+                    "title": "NRK-journalist Christine Præsttun er død",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007948\u0026panoy=16.265060240964\u0026panox=37.86231884058\u0026panow=50.724637681159\u0026panoh=11.807228915663\u0026heightx=48.739495798319\u0026heighty=8.5981308411215\u0026heightw=33.893557422969\u0026heighth=36.635514018692"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/kona-raste-da-hun-fikk-se-tatoveringen-til-peter-crouch/72007402",
+                    "title": "Kona raser over tatoveringen",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007504\u0026panow=100\u0026panoh=40\u0026panox=0\u0026panoy=24.489795918367\u0026heightw=54.017857142857\u0026heighth=100\u0026heighty=0\u0026heightx=20.982142857143"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/kjendis/forlater-usa/72004735",
+                    "title": "Forlater USA",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005324\u0026panoy=24.860335195531\u0026panox=0\u0026panow=100\u0026panoh=27.374301675978\u0026heighty=0\u0026heightw=79.084967320261\u0026heighth=100\u0026heightx=5.2287581699346"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/provde-a-snu/72008375",
+                    "title": "- Prøvde å snu",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008384\u0026panoy=0\u0026panow=0\u0026panoh=0\u0026panox=0\u0026heightw=0\u0026heighty=0\u0026heightx=0\u0026heighth=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/trener-ikke-med-laget/72008337",
+                    "title": "Trener ikke med laget",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008340\u0026panox=0\u0026panoy=5.3763440860215\u0026panow=100\u0026panoh=52.688172043011\u0026heightx=25.850340136054\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/slik-reagerer-kongefamilien/72007796",
+                    "title": "Slik reagerer kongefamilien",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007801\u0026panox=0\u0026panow=100\u0026panoh=47.342995169082\u0026panoy=1.4492753623188\u0026heightw=32.880434782609\u0026heighth=72.324723247232\u0026heighty=8.1180811808118\u0026heightx=6.7934782608696"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/avslorer-ukjent-sykdom/72007809",
+                    "title": "Avslører ukjent sykdom",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007925\u0026panox=0\u0026panow=100\u0026panoh=35\u0026panoy=4.2857142857143\u0026heighty=0\u0026heightx=25.475285171103\u0026heightw=46.007604562738\u0026heighth=74.524714828897"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/mistet-mora---du-fineste-hjerte-av-gull/72001614",
+                    "title": "I sorg",
+                    "imageUrl": "https://dbstatic.no/72001687.jpg?imageId=72001687\u0026x=0.814664\u0026y=7.339450\u0026cropw=98.981670\u0026croph=76.452599"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/hanne-mott-av-grufullt-syn/72004908",
+                    "title": "Hanne møtt av grufullt syn",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006852\u0026panoy=34.761904761905\u0026panow=100\u0026panoh=46.666666666667\u0026panox=0\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kultur/dommer-truet-voldtektssiktet/72003775",
+                    "title": "Dommer truet voldtektssiktet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003796\u0026panoy=21.523178807947\u0026panow=62.360801781737\u0026panoh=32.450331125828\u0026panox=20.935412026726\u0026heighty=15.10989010989\u0026heightx=38.79781420765\u0026heightw=22.040072859745\u0026heighth=53.846153846154"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/hevder-haaland-far-dra-i-2022/72008195",
+                    "title": "Hevder Haaland får dra i 2022",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008205\u0026panoy=19.791666666667\u0026panox=0\u0026panow=100\u0026panoh=51.041666666667\u0026heighty=0\u0026heightw=42.307692307692\u0026heighth=100\u0026heightx=27.622377622378"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/nyheter/mann-slo-passasjerer-og-besetning-pa-fly-pagrepet/72007821",
+                    "title": "Mann slo passasjerer og besetning på fly. Pågrepet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007843\u0026panoy=47.593582887701\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026heighth=100\u0026heightx=0\u0026heighty=0\u0026heightw=41.156462585034"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/kjendis/gladmelding-etter-ulykka/72007085",
+                    "title": "Gladmelding etter ulykka",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007140\u0026panoy=12.820512820513\u0026panox=23.287671232877\u0026panow=76.712328767123\u0026panoh=41.880341880342\u0026heightx=50\u0026heighty=0\u0026heightw=39.542483660131\u0026heighth=100"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/kjendis/svensk-influenser-25-roper-transhemmelighet/72002044",
+                    "title": "Røper transhemmelighet",
+                    "imageUrl": "https://dbstatic.no/72002721.jpg?imageId=72002721\u0026x=9.523810\u0026y=27.142857\u0026cropw=72.321429\u0026croph=53.333333"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/nesten-umenneskelig/72004904",
+                    "title": "- Nesten umenneskelig",
+                    "imageUrl": "https://dbstatic.no/?imageId=72004946\u0026panoy=6.4171122994652\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026heightx=0\u0026heighty=0\u0026heightw=0\u0026heighth=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/haver-inn/72004185",
+                    "title": "Håver inn",
+                    "imageUrl": "https://dbstatic.no/?imageId=72004820\u0026panoy=0\u0026panox=0\u0026panow=0\u0026panoh=0\u0026heighty=0\u0026heightw=41.156462585034\u0026heighth=100\u0026heightx=38.43537414966"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dinside.no/okonomi/her-har-vi-hoyest-gjeld/71999611",
+                    "title": "Her har folk høyest gjeld",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000173\u0026panow=79.09604519774\u0026panoh=36.842105263158\u0026panoy=6.015037593985\u0026panox=11.299435028249\u0026heighty=0\u0026heightx=12.121212121212\u0026heightw=33.333333333333\u0026heighth=72.324723247232"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/det-han-ser-er-det-han-har/72005062",
+                    "title": "Stakkars mann!",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003501\u0026panow=0\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026heighty=0\u0026heightx=0\u0026heightw=0\u0026heighth=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/forfatter-elizabeth-wurtzel-52-er-dod/72002819",
+                    "title": "Elizabeth Wurtzel (52) er død",
+                    "imageUrl": "https://dbstatic.no/72002823.jpg?imageId=72002823\u0026x=0.735294\u0026y=34.094617\u0026cropw=99.127400\u0026croph=33.410943"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/driver-solberg-feilinformasjon-eller-er-hun-dum/71997666",
+                    "title": "Driver Solberg feilinformasjon, eller er hun dum?",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000454\u0026panox=47.440273037543\u0026panow=47.78156996587\u0026panoh=25.322997416021\u0026panoy=31.782945736434\u0026heightx=58.1589958159\u0026heighty=17.515923566879\u0026heightw=25.313807531381\u0026heighth=62.420382165605"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/skjerpet-straff-etter-brutalt-angrep/72006721",
+                    "title": "Skjerpet straff etter brutalt angrep",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006974\u0026panoh=24.747474747475\u0026panoy=24.242424242424\u0026panox=0\u0026panow=100\u0026heightx=2.8776978417266\u0026heightw=87.05035971223\u0026heighth=100\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/millionklokka-vekker-oppsikt/71999186",
+                    "title": "Millionklokka vekker oppsikt",
+                    "imageUrl": "https://dbstatic.no/?imageId=71999216\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026panow=0\u0026heightx=48.993288590604\u0026heightw=40.604026845638\u0026heighth=100\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/vi-sitter-pa-en-fattigdomsbombe/72001440",
+                    "title": "Vi sitter på en fattigdomsbombe",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002000\u0026panoy=0\u0026panox=0\u0026panow=0\u0026panoh=0\u0026heighty=0\u0026heightw=0\u0026heighth=0\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/nesset-dokumentar-forst-skuffende-men-sa/72004334",
+                    "title": "Nesset-dokumentar: Først skuffende, men så ...",
+                    "imageUrl": "https://dbstatic.no/?imageId=72004603\u0026panoy=23.248407643312\u0026panox=2.6936026936027\u0026panow=94.276094276094\u0026panoh=31.210191082803\u0026heighty=1.1764705882353\u0026heightw=49.794238683128\u0026heighth=76.862745098039\u0026heightx=19.341563786008"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/fbi-advarer-om-ny-iran-trussel/72008096",
+                    "title": "FBI advarer om ny Iran-trussel",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008115\u0026panox=0\u0026panoy=14.207650273224\u0026panow=100\u0026panoh=53.551912568306\u0026heighty=0\u0026heightw=40.333333333333\u0026heighth=100\u0026heightx=19.333333333333"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/apen-om-savnet/72005407",
+                    "title": "Åpen om savnet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005419\u0026panoy=6.1111111111111\u0026panox=0\u0026panow=100\u0026panoh=54.444444444444\u0026heighty=0\u0026heightw=0\u0026heighth=0\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kultur/dod-over-juletrefesten/72000062",
+                    "title": "Død over juletrefesten!",
+                    "imageUrl": "https://dbstatic.no/?imageId=72001867\u0026panoh=35.379061371841\u0026panoy=23.826714801444\u0026panox=0\u0026panow=100\u0026heighty=9.5541401273885\u0026heightx=25.552050473186\u0026heightw=38.170347003155\u0026heighth=62.420382165605"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/sport/enorme-muskler-ga-sjokktilbud/71999705",
+                    "title": "Enorme muskler ga sjokktilbud",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000482\u0026panox=0\u0026panow=100\u0026panoh=51.851851851852\u0026panoy=19.57671957672\u0026heighty=0\u0026heightx=0\u0026heightw=0\u0026heighth=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/mat/nye-tall-bare-halvparten-kjoper-alkohol/72004653",
+                    "title": "Nye tall: Bare halvparten kjøper alkohol",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006063\u0026panox=0\u0026panoy=0\u0026panow=0\u0026panoh=0\u0026heighty=0\u0026heightw=0\u0026heightx=0\u0026heighth=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/nyheter/skal-skyte-10-000-kameler/72002768",
+                    "title": "Skal skyte 10 000 kameler",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002891\u0026panoy=0\u0026panow=100\u0026panoh=62.025316455696\u0026panox=0\u0026heighty=0\u0026heightx=36.206896551724\u0026heightw=34.770114942529\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dinside.no/bolig/kakao-pa-termos-eksploderte/72000060",
+                    "title": "– Plutselig smalt det",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000442\u0026panoy=0\u0026panox=0\u0026panow=0\u0026panoh=0\u0026heightx=3.7414965986395\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/na-trekker-de-seg-tilbake/72007458",
+                    "title": "Nå trekker de seg tilbake",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007473\u0026panow=100\u0026panoh=47.342995169082\u0026panoy=1.9323671497585\u0026panox=0\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/ulveaktivist-domt-til-fengsel/72001192",
+                    "title": "Ulveaktivist dømt til fengsel",
+                    "imageUrl": "https://dbstatic.no/72001783.jpg?imageId=72001783\u0026x=0.000000\u0026y=11.829654\u0026cropw=100.000000\u0026croph=61.779242"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kjendis/bytter-nakenbilder-mot-donasjoner/71999479",
+                    "title": "Nakenstunt vekker oppsikt",
+                    "imageUrl": "https://dbstatic.no/72000464.jpg?imageId=72000464\u0026x=0.000000\u0026y=21.041215\u0026cropw=100.000000\u0026croph=80.694143"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/derfor-krangler-de-om-komikeren/72005792",
+                    "title": "Derfor krangler de om komikeren",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005852\u0026panoy=14.084507042254\u0026panow=66.193853427896\u0026panoh=34.507042253521\u0026panox=15.366430260047\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/jakter-blant-1600-biler---skrekkscenario/72004548",
+                    "title": "Jakter blant 1600 biler: - Skrekkscenario",
+                    "imageUrl": "https://dbstatic.no/?imageId=72004987\u0026panoh=52.688172043011\u0026panoy=8.0645161290323\u0026panox=0\u0026panow=100\u0026heighty=0\u0026heightx=32.881355932203\u0026heightw=41.016949152542\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/irans-missilangrep-var-millimeterpresist/72005973",
+                    "title": "Irans missilangrep var «millimeterpresist»",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006103\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026panoy=41.176470588235\u0026heighty=0\u0026heightx=0\u0026heightw=0\u0026heighth=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dinside.no/bolig/senga-som-kan-redde-forholdet/72000265",
+                    "title": "Senga som kan redde forholdet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000391\u0026panoy=27.5\u0026panow=100\u0026panoh=35\u0026panox=0\u0026heightw=0\u0026heighth=0\u0026heightx=0\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/spansk-profil-suspendert-etter-sexvideo/72005765",
+                    "title": "Spansk profil suspendert etter sexvideo",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005865\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026panow=0\u0026heighty=0\u0026heightw=41.156462585034\u0026heighth=100\u0026heightx=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kultur/slutter-pa-nationaltheatret/72006171",
+                    "title": "Slutter på Nationaltheatret",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006192\u0026panow=100\u0026panoh=52.406417112299\u0026panoy=7.4866310160428\u0026panox=0\u0026heighty=0\u0026heightx=0\u0026heightw=0\u0026heighth=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/nyland-stralende-i-semifinale/72007959",
+                    "title": "Nyland strålende i semifinale",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007977\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026panoy=3.2085561497326\u0026heighty=0\u0026heightx=46.258503401361\u0026heightw=41.156462585034\u0026heighth=100"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/steilet---ro-deg/71998962",
+                    "title": "Steilet: - Ro deg",
+                    "imageUrl": "https://dbstatic.no/71998966.jpg?imageId=71998966\u0026x=25.874126\u0026y=8.268331\u0026cropw=66.200466\u0026croph=51.950078"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/nyheter/kvinne-omkom-etter-boligbrann/72008148",
+                    "title": "Kvinne omkom etter boligbrann",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008155\u0026panox=0\u0026panow=58.823529411765\u0026panoh=27.450980392157\u0026panoy=29.971988795518\u0026heightw=46.360153256705\u0026heighty=0\u0026heightx=0\u0026heighth=100"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/kjendis/stjerna-i-sorg-over-dodsfall/72004005",
+                    "title": "Stjerna i sorg over dødsfall",
+                    "imageUrl": "https://dbstatic.no/?imageId=72004015\u0026panoy=22.422680412371\u0026panox=0\u0026panow=100\u0026panoh=25.257731958763\u0026heightw=0\u0026heighth=0\u0026heightx=0\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/nyheter/innforer-betaling-for-kabinkoffert/72002901",
+                    "title": "Innfører betaling for kabinkoffert",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002996\u0026panow=100\u0026panoh=58.333333333333\u0026panoy=20.238095238095\u0026panox=0\u0026heighty=0\u0026heightx=22.018348623853\u0026heightw=37.003058103976\u0026heighth=100"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/iraks-statsminister---ble-varslet-for-angrepet/72003878",
+                    "title": "Iraks statsminister: - Ble varslet før angrepet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005370\u0026panow=0\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026heighty=0\u0026heightx=0\u0026heightw=0\u0026heighth=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/jakob-ingebrigtsen-dropper-innendorssesongen/72007534",
+                    "title": "Plagsom rumpeskade",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007553\u0026panox=0\u0026panow=100\u0026panoh=52.688172043011\u0026panoy=6.989247311828\u0026heighty=0\u0026heightx=31.186440677966\u0026heightw=41.016949152542\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/feil-om-olje-og-gass/72001914",
+                    "title": "Feil om olje og gass",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002087\u0026panoy=18.275862068966\u0026panox=13.532110091743\u0026panow=64.220183486239\u0026panoh=33.793103448276\u0026heighty=1.0752688172043\u0026heightw=28.809523809524\u0026heighth=70.250896057348\u0026heightx=28.333333333333"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/mjosas-beckham-legger-opp/72000830",
+                    "title": "«Mjøsas Beckham» legger opp",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000869\u0026panoy=0\u0026panox=0\u0026panow=100\u0026panoh=51.578947368421\u0026heighty=0\u0026heightw=42.013888888889\u0026heighth=100\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/kultur/grat-da-jeg-leste-denne/71982484",
+                    "title": "Gråt da jeg leste denne",
+                    "imageUrl": "https://dbstatic.no/71982993.jpg?imageId=71982993\u0026x=25.381166\u0026y=43.145161\u0026cropw=43.587444\u0026croph=46.029610"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/marca-leserne-hyller-messi-og-odegaard/72003092",
+                    "title": "Ødegaard hylles",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003110\u0026panow=100\u0026panoh=47.342995169082\u0026panoy=9.6618357487923\u0026panox=0\u0026heightx=24.06015037594\u0026heighty=0\u0026heightw=45.488721804511\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/ribbas-ridder/71997079",
+                    "title": "Ribbas ridder?",
+                    "imageUrl": "https://dbstatic.no/?imageId=71997092\u0026panox=0\u0026panow=100\u0026panoh=55.367231638418\u0026panoy=19.209039548023\u0026heighty=0\u0026heightx=22.977346278317\u0026heightw=39.15857605178\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/her-blir-det-storm---venter-bolger-pa-14-meter/72000472",
+                    "title": "Her blir det storm - venter bølger på 14 meter",
+                    "imageUrl": "https://dbstatic.no/?imageId=72000855\u0026panoy=0\u0026panox=0\u0026panow=0\u0026panoh=0\u0026heightw=0\u0026heighth=0\u0026heighty=0\u0026heightx=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/nyheter/storste-nav-utbetaling-hittil-637-000-kroner/72002149",
+                    "title": "Største Nav-utbetaling hittil: 637 000 kroner",
+                    "imageUrl": "https://dbstatic.no/?imageId=71758042\u0026panoy=0\u0026panow=0\u0026panoh=0\u0026panox=0\u0026heightw=0\u0026heighth=0\u0026heighty=0\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/sport/snakker-ut-om-skademarerittet/72008348",
+                    "title": "Snakker ut om skademarerittet",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008350\u0026panoy=2.6737967914439\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026heightx=17.687074829932\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/nyheter/kommer-med-bonn-til-nato/72007133",
+                    "title": "Kommer med bønn til Nato",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007144\u0026panow=0\u0026panoy=0\u0026panox=0\u0026panoh=0\u0026heighth=100\u0026heighty=0\u0026heightx=7.8231292517007\u0026heightw=41.156462585034"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/nyheter/rammet-av-bilbrann-slik-er-reglene/72003087",
+                    "title": "Rammet av bilbrann? Slik er reglene",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003112\u0026panow=100\u0026panoh=52.688172043011\u0026panoy=31.720430107527\u0026panox=0\u0026heighty=18.672199170124\u0026heightx=43.922651933702\u0026heightw=33.425414364641\u0026heighth=81.327800829876"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/kultur/oljedrommen-som-brast/71987308",
+                    "title": "Oljedrømmen som brast",
+                    "imageUrl": "https://dbstatic.no/?imageId=71987597\u0026panoy=29.411764705882\u0026panox=0\u0026panow=91.503267973856\u0026panoh=48.039215686275\u0026heighty=0\u0026heightx=15.986394557823\u0026heightw=41.156462585034\u0026heighth=100"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/profilene-vil-lofte-skoytesporten-tilbake-i-rampelyset/72001934",
+                    "title": "Profilene vil løfte skøytesporten tilbake i rampelyset",
+                    "imageUrl": "https://dbstatic.no/?imageId=72001937\u0026panow=100\u0026panoh=43.362831858407\u0026panox=0\u0026panoy=0\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/henrik-kristoffersen-nummer-to/72007180",
+                    "title": "Henrik Kristoffersen nummer to",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007261\u0026panoy=6.951871657754\u0026panow=100\u0026panoh=52.406417112299\u0026panox=0\u0026heighty=0\u0026heightw=41.156462585034\u0026heighth=100\u0026heightx=17.34693877551"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/jeg-fikk-hjelp-jeg-hadde-flaks-og-penger/71996541",
+                    "title": "Jeg fikk hjelp - hadde flaks og penger",
+                    "imageUrl": "https://dbstatic.no/72000351.jpg?imageId=72000351\u0026x=0.000000\u0026y=8.996210\u0026cropw=100.000000\u0026croph=55.539359"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/australia-utvider-katastrofevarsel/72008212",
+                    "title": "Australia utvider katastrofevarsel",
+                    "imageUrl": "https://dbstatic.no/?imageId=72008222\u0026panoh=52.406417112299\u0026panoy=29.946524064171\u0026panox=0\u0026panow=100\u0026heightx=34.353741496599\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/slik-er-dommen-over-forste-mgp-runde/72000604",
+                    "title": "Tynn suppe",
+                    "imageUrl": "https://dbstatic.no/72000672.jpg?imageId=72000672\u0026x=14.253136\u0026y=9.897611\u0026cropw=55.416192\u0026croph=50.853242"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/startet-i-eldre-dieselbil/72003771",
+                    "title": "Startet trolig i eldre dieselbil",
+                    "imageUrl": "https://dbstatic.no/72003851.jpg?imageId=72003851\u0026x=0.000000\u0026y=29.746835\u0026cropw=100.000000\u0026croph=62.025316"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/kultur/en-kjaerlighetserklaering-til-oljearbeideren/72006303",
+                    "title": "En kjærlighetserklæring til oljearbeideren",
+                    "imageUrl": "https://dbstatic.no/?imageId=68589211\u0026panow=100\u0026panoy=4.950495049505\u0026panox=0\u0026panoh=48.514851485149\u0026heightw=44.649446494465\u0026heighth=100\u0026heighty=0\u0026heightx=35.793357933579"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/kultur/knapt-sett-noe-sterkere/71997978",
+                    "title": "Knapt sett noe sterkere",
+                    "imageUrl": "https://dbstatic.no/?imageId=71997985\u0026panoy=7.9470198675497\u0026panox=0\u0026panow=100\u0026panoh=64.900662251656\u0026heighth=0\u0026heighty=0\u0026heightx=0\u0026heightw=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/nyheter/truer-med-angrep-i-usa/72003726",
+                    "title": "Truer med angrep i USA",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003730\u0026panow=100\u0026panoy=15.846994535519\u0026panoh=53.551912568306\u0026panox=0\u0026heightx=42.727272727273\u0026heightw=27.5\u0026heighth=68.292682926829\u0026heighty=17.770034843206"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/nyheter/jan-egil-presthus-er-dod/72002156",
+                    "title": "Jan Egil Presthus er død",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002159\u0026panox=15.957446808511\u0026panow=74.468085106383\u0026panoh=38.582677165354\u0026panoy=25.984251968504\u0026heightw=35.905044510386\u0026heighty=4.4052863436123\u0026heightx=37.982195845697\u0026heighth=86.343612334802"
+                },
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/inngar-kontroversiell-avtale/72005586",
+                    "title": "Inngår kontroversiell avtale",
+                    "imageUrl": "https://dbstatic.no/?imageId=71976844\u0026panow=0\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026heighty=0\u0026heightw=0\u0026heighth=0\u0026heightx=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/nyheter/politiet-intensiverer-letingen-etter-anne-elisabeth-hagen/72006983",
+                    "title": "Politiet intensiverer letingen etter Anne-Elisabeth Hagen",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007031\u0026panoy=6.547619047619\u0026panox=0\u0026panow=100\u0026panoh=58.333333333333\u0026heighth=100\u0026heightx=18.960244648318\u0026heightw=37.003058103976\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/nyheter/trekker-tilbake-melding-om-motorfeil/72005274",
+                    "title": "Trekker tilbake melding om motorfeil",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005340\u0026panoy=0\u0026panox=0\u0026panow=0\u0026panoh=0\u0026heighty=0\u0026heightw=0\u0026heighth=0\u0026heightx=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 5,
+                    "url": "https://www.dagbladet.no/sport/karrieren-over-for-norsk-stjernetraver/72002285",
+                    "title": "Karrieren over for norsk stjernetraver",
+                    "imageUrl": "https://dbstatic.no/?imageId=72002288\u0026panoy=0\u0026panox=0\u0026panow=100\u0026panoh=52.406417112299\u0026heightx=8.1632653061224\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 7,
+                    "url": "https://www.dagbladet.no/nyheter/frykter-p-hus-med-elbiler/72003245",
+                    "title": "- Frykter p-hus med elbiler",
+                    "imageUrl": "https://dbstatic.no/?imageId=72003382\u0026panox=7.909604519774\u0026panoy=40.336134453782\u0026panow=79.09604519774\u0026panoh=41.176470588235\u0026heightx=14.625850340136\u0026heightw=41.156462585034\u0026heighth=100\u0026heighty=0"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/nyheter/store-ut-mot-trump---kan-ha-startet-en-krig/72004518",
+                    "title": "Støre ut mot Trump: - Kan ha startet en krig",
+                    "imageUrl": "https://dbstatic.no/?imageId=72005955\u0026panoy=12.903225806452\u0026panox=0\u0026panow=100\u0026panoh=24.317617866005\u0026heighty=2.1691973969631\u0026heightx=30.9375\u0026heightw=37.8125\u0026heighth=42.516268980477"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/legendetrener-med-klar-beskjed-til-thorsby/72001222",
+                    "title": "Legendetrener med klar beskjed til Thorsby",
+                    "imageUrl": "https://dbstatic.no/?imageId=72001260\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=52.406417112299\u0026heighty=0\u0026heightw=0\u0026heighth=0\u0026heightx=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 4,
+                    "url": "https://www.dagbladet.no/sport/kroos-scoret-direkte-pa-corner/72007915",
+                    "title": "Kroos scoret direkte på corner",
+                    "imageUrl": "https://dbstatic.no/?imageId=72007938\u0026panox=0\u0026panoy=4.2780748663102\u0026panow=100\u0026panoh=52.406417112299\u0026heighty=0\u0026heightw=41.156462585034\u0026heighth=100\u0026heightx=20.748299319728"
+                }
+            ]
+        },
+        {
+            "type": "Row",
+            "columns": [
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/sport/tidligere-doper-blir-boasson-hagens-sjef/72006730",
+                    "title": "Tidligere doper blir Boasson Hagens sjef",
+                    "imageUrl": "https://dbstatic.no/?imageId=72006735\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026panow=0\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                },
+                {
+                    "type": "Article",
+                    "width": 6,
+                    "url": "https://www.dagbladet.no/nyheter/politiet-om-skoletrusler---det-skjer-ukentlig/71921341",
+                    "title": "Politiet om skoletrusler: - Det skjer ukentlig",
+                    "imageUrl": "https://dbstatic.no/?imageId=71963759\u0026panow=0\u0026panoh=0\u0026panoy=0\u0026panox=0\u0026heightx=0\u0026heightw=0\u0026heighth=0\u0026heighty=0"
+                }
+            ]
+        }
+    ]
+]
